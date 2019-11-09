@@ -13,7 +13,7 @@ public class Exc1 {
             System.out.println("Wprowadź wartości większe od 0!");
         }else{
             double result = ((a+a)/b + ((a/b)*a)/b + 1/a);
-            System.out.println("Rezult działania: " + result);
+            System.out.println("Rezultat działania: " + result);
         }
 
     }
